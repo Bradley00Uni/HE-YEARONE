@@ -1,0 +1,335 @@
+.bg-custom {
+    background-color: #980000;
+
+}
+
+.nav-font a {
+    color: white;
+}
+
+.dropdown-item {
+    color: black !Important;
+}
+
+.fit {
+    padding: 0;
+    display: block;
+    width: 100%;
+}
+
+.navbar-row {
+    height: 100%
+}
+
+.spacing-row-sm {
+    height: 30px;
+}
+
+.spacing-row-md {
+    height: 100px
+}
+
+.spacing-row-lg {
+    height: 160px;
+}
+
+.spacing-row-xl {
+    height: 250px;
+}
+
+h2 {
+    text-align: center;
+    color: #980000;
+}
+
+body {
+    width: 100vw;
+}
+
+#opening-times {
+    margin-top: 25px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.title-divide {
+    width: 12vw;
+    border-color: #242424;
+
+}
+
+.title-images {
+    width: 7vw;
+    align-content: center;
+    display: block;
+    margin: 0px auto;
+    padding-top: 6px
+}
+
+.title-description {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#phone-number {
+    margin-top: 25px !important;
+
+}
+
+.section-divide {
+    width: 80%;
+    border-color: #242424;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.google-map {
+    width: 30vw;
+    height: 100%;
+    text-align: right;
+    margin: 0px auto;
+}
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+#channel-heading {
+    margin-bottom: 30px;
+}
+
+.channel-choose {
+    height: 85% !important;
+    width: auto;
+    margin-left: 12.5%;
+    margin-top: 4%
+}
+
+.main-image {
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+#sport-text {
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+#double-section {
+    width: 60vw;
+    border-color: gray;
+    margin-bottom: 25px;
+}
+
+#pool-image {
+    margin-top: 35px;
+    height: 80% !important;
+    width: auto;
+}
+
+#pool-text {
+    margin-top: 40px;
+}
+
+.extras-section {
+    height: 65% !important;
+    width: auto;
+
+    margin-top: 4%;
+}
+
+.smoking-area {
+    margin-left: 10%;
+}
+
+.extra-headings {
+    text-align: center;
+}
+
+#extra-area-text {
+    text-align: center;
+    margin-top: 0%;
+}
+
+#amusements-text {
+    margin-top: 30px !important;
+}
+
+#cue-text {
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.overlay-container {
+    position: relative;
+    width: 50%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 65%;
+    width: auto;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: ;
+    margin-left: 20%;
+    margin-top: 2%
+}
+
+.overlay-burger {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 65%;
+    width: auto;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: ;
+    margin-top: 2%
+}
+
+.overlay-container:hover .overlay {
+    opacity: 1;
+}
+
+.overlay-container:hover .overlay-burger {
+    opacity: 1;
+}
+
+.overlay-text {
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.smoke-text {
+    margin-left: 50% !important;
+    font-size: 20px !important;
+}
+
+.bottom-divide {
+    width: 80%;
+    border-color: #242424;
+    margin-top: -30px;
+    margin-bottom: 45px;
+}
+
+#banner {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 5px;
+}
+
+.nav-center {
+    padding-left: 25%
+}
+
+#navbar-top {
+    border-top-color: white;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+
+.footer {
+    text-align: center;
+    font-size: 12px !important;
+    margin-bottom: 10px
+}
+
+#footer-divide {
+    width: 95% !important;
+}
+
+@media only screen and (max-width: 1125px) {
+
+    /*/ Updates Styling for mobile devices and smaller displays/*/
+    h2 {
+        font-size: 20px;
+        text-align: center;
+
+    }
+
+    .lead {
+        font-size: 14px;
+        max-width: 80%;
+        text-align: center;
+        margin-left: 5%;
+    }
+
+    #cue-text {
+        margin-right: 10%;
+        margin-top: 0%
+    }
+
+    .main-image {
+        width: 80%;
+        margin-left: 10%
+    }
+
+    #pool-image {
+        width: 80%;
+        margin-left: 10%
+    }
+
+    .smoking-area {
+        margin-left: 0;
+        width: 80%;
+        height: 90% !important;
+    }
+
+    .google-map {
+        width: 75vw;
+        height: 100%;
+        text-align: right;
+        margin: 0px auto;
+        margin-top: 10px;
+
+    }
+
+    #hover-burger {
+        width: 100%;
+        height: 90% !important;
+    }
+
+    .overlay-text {
+        font-size: 15px;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    .smoke-text {
+        margin-left: 0% !important;
+        font-size: 15px !important;
+    }
+
+    .overlay {
+        margin-left: 0;
+        margin-right: 30%;
+    }
+
+    #smoking-title {
+        margin-left: 30px;
+        margin-right: 0 !important;
+    }
+}

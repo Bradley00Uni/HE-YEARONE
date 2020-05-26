@@ -1,0 +1,333 @@
+.bg-custom {
+    background-color: #980000;
+}
+
+.nav-font a {
+    color: white;
+}
+
+.dropdown-item {
+    color: black !Important;
+}
+
+.fit {
+    padding: 0;
+    display: block;
+    width: 100%;
+}
+
+.navbar-row {
+    height: 100%
+}
+
+.spacing-row-sm {
+    height: 50px;
+}
+
+.spacing-row-md {
+    height: 100px
+}
+
+.spacing-row-lg {
+    height: 160px;
+}
+
+.spacing-row-xl {
+    height: 250px;
+}
+
+#first-row {
+    margin-top: 8%;
+    margin-bottom: 0%;
+}
+
+
+h2 {
+    text-align: center;
+    color: #980000;
+}
+
+.section-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    font-size: 3vw;
+}
+
+.section-subheading {
+    font-weight: 250;
+    line-height: 0.5;
+    letter-spacing: -.05rem;
+    font-size: 2.3vw;
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+.subheading-adjust {
+    margin-top: 30px !important;
+}
+
+
+.main-image {
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+#first-sport {
+    height: 85% !important;
+    width: auto;
+    margin-left: 12.5%;
+}
+
+#second-sport {
+    height: 85% !important;
+    width: auto;
+    margin-left: 12.5%;
+}
+
+.centered-text {
+    font-size: 1.59vw
+}
+
+.pushed-text {
+    margin-left: 40px;
+    margin-top: 40px !important;
+    font-size: 1.59vw
+}
+
+.double-section {
+    width: 50vw;
+    border-color: gray;
+    margin-bottom: 60px;
+    margin-top: 0px;
+}
+
+.section-divide {
+    width: 80%;
+    border-color: #242424;
+    height: 1px
+}
+
+
+#bt {
+    margin-top: 15px
+}
+
+#euro {
+    margin-top: -2px
+}
+
+/* Event Styling */
+
+.event-space {
+    margin-top: 6%;
+    margin-bottom: 0%;
+}
+
+.event-image {
+    height: 65% !important;
+    width: auto;
+    margin-left: 12.5%;
+}
+
+.event-subheading {
+    font-weight: 250;
+    line-height: 0.5;
+    letter-spacing: -.05rem;
+    font-size: 3vw;
+    margin-bottom: 20px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+#snooker-heading {
+    margin-top: -20px !important;
+}
+
+.event-divide {
+    width: 50vw;
+    border-color: gray;
+    margin-bottom: 60px;
+    margin-top: -30px;
+}
+
+#venue-text {
+    text-align: center;
+}
+
+
+.venue-food {
+    margin-top: 40px;
+    margin-left: 30px
+}
+
+.venue-location {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    font-size: 2.2vw;
+    margin-left: -40px;
+    margin-top: 10px;
+}
+
+.venue-link {
+    text-align: center;
+    margin-right: 40px;
+}
+
+.discount-subheading {
+    font-weight: 250;
+    line-height: 0.5;
+    letter-spacing: -.05rem;
+    font-size: 2.5vw;
+    margin-bottom: 30px;
+    text-align: left;
+    margin-top: 60px;
+}
+
+.discount-section {
+    width: 50vw;
+    border-color: gray;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+#discount-overview {
+    margin-top: 40px;
+}
+
+#discount-image {
+    margin-top: 30px;
+}
+
+#discount-smalltext {
+    text-align: center !important;
+}
+
+.question {
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    font-size: 25px;
+    color: #980000;
+}
+
+.answer {
+    text-align: center;
+    margin-top: 18px;
+
+}
+
+.question-divide {
+    width: 60vw;
+    border-color: gray;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+#contact-form {
+    text-align: center;
+    color: #980000;
+}
+
+#contact-title {
+    margin-bottom: 30px;
+}
+
+#contact-text {
+    text-align: center;
+}
+
+#send-button {
+    width: 150px;
+    margin-bottom: 26px
+}
+
+#sports-results {
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#banner {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 5px;
+}
+
+.nav-center {
+    padding-left: 25%
+}
+
+#navbar-top {
+    border-top-color: white;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+
+
+.footer {
+    text-align: center;
+    font-size: 12px !important;
+    margin-bottom: 10px
+}
+
+#footer-divide {
+    width: 95% !important;
+}
+
+@media only screen and (max-width: 1125px) {
+    /*/ Updates Styling for mobile devices and smaller displays/*/
+
+    .main-image {
+        width: 80% !important;
+        margin-right: 10px !important;
+    }
+
+    h2 {
+        font-size: 20px !important;
+        text-align: center;
+    }
+
+    .lead {
+        font-size: 14px;
+        max-width: 80%;
+        text-align: center;
+        margin-left: 10%;
+    }
+
+
+    .channel-image {
+        margin-left: 25%
+    }
+
+    .event-subheading {
+        text-align: center;
+    }
+
+    .event-divide {
+        display: none;
+    }
+
+    #discount-image {
+        display: none;
+    }
+
+    .discount-subheading {
+        text-align: center;
+    }
+
+    #navbar-button {
+        color: white !important;
+    }
+
+    #updating-heading {
+        display: none;
+    }
+
+    #sports-results {
+        display: none;
+    }
+
+}
