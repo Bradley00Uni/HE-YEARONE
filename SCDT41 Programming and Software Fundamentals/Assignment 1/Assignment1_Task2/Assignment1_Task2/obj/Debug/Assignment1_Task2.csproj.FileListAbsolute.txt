@@ -1,0 +1,14 @@
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.csprojAssemblyReference.cache
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.csproj.CoreCompileInputs.cache
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\bin\Debug\Assignment1_Task2.exe.config
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\bin\Debug\Assignment1_Task2.exe
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\bin\Debug\Assignment1_Task2.pdb
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.exe
+F:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.pdb
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\bin\Debug\Assignment1_Task2.exe.config
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\bin\Debug\Assignment1_Task2.exe
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\bin\Debug\Assignment1_Task2.pdb
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.csprojAssemblyReference.cache
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.csproj.CoreCompileInputs.cache
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.exe
+D:\Year One\Programming and Software Fundamentals\Assignment 1\Assignment1_Task2\Assignment1_Task2\obj\Debug\Assignment1_Task2.pdb
