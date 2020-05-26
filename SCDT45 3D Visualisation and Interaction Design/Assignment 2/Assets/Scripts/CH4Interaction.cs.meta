@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eb68d80950970da409cb90eb17dda1a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Hydrogen1: {instanceID: 0}
+  - Hydrogen2: {instanceID: 0}
+  - Hydrogen3: {instanceID: 0}
+  - Hydrogen4: {instanceID: 0}
+  - Carbon: {instanceID: 0}
+  - model: {fileID: 100000, guid: 69a415b00c4012c4daf9cdf09fac7977, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

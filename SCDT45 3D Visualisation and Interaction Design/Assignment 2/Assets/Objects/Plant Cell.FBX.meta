@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 97901ebe757f0f6429f672d6d9ab6fe2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Circle001
+    100004: Cylinder001
+    100006: Cylinder002
+    100008: Cylinder003
+    100010: Cylinder004
+    100012: Cylinder005
+    100014: Ellipse001
+    100016: Ellipse002
+    100018: Ellipse003
+    100020: Line001
+    100022: Line002
+    100024: Line003
+    100026: Line004
+    100028: Line005
+    100030: Line006
+    100032: Line007
+    100034: Line008
+    100036: Line009
+    100038: Line010
+    100040: //RootNode
+    400000: Box001
+    400002: Circle001
+    400004: Cylinder001
+    400006: Cylinder002
+    400008: Cylinder003
+    400010: Cylinder004
+    400012: Cylinder005
+    400014: Ellipse001
+    400016: Ellipse002
+    400018: Ellipse003
+    400020: Line001
+    400022: Line002
+    400024: Line003
+    400026: Line004
+    400028: Line005
+    400030: Line006
+    400032: Line007
+    400034: Line008
+    400036: Line009
+    400038: Line010
+    400040: //RootNode
+    2100000: 01 - Default
+    2100002: 09 - Default
+    2100004: 07 - Default
+    2100006: 02 - Default
+    2100008: 08 - Default
+    2100010: 03 - Default
+    2100012: 15 - Default
+    2100014: 14 - Default
+    2100016: 13 - Default
+    2300000: Box001
+    2300002: Circle001
+    2300004: Cylinder001
+    2300006: Cylinder002
+    2300008: Cylinder003
+    2300010: Cylinder004
+    2300012: Cylinder005
+    2300014: Ellipse001
+    2300016: Ellipse002
+    2300018: Ellipse003
+    2300020: Line001
+    2300022: Line002
+    2300024: Line003
+    2300026: Line004
+    2300028: Line005
+    2300030: Line006
+    2300032: Line007
+    2300034: Line008
+    2300036: Line009
+    2300038: Line010
+    3300000: Box001
+    3300002: Circle001
+    3300004: Cylinder001
+    3300006: Cylinder002
+    3300008: Cylinder003
+    3300010: Cylinder004
+    3300012: Cylinder005
+    3300014: Ellipse001
+    3300016: Ellipse002
+    3300018: Ellipse003
+    3300020: Line001
+    3300022: Line002
+    3300024: Line003
+    3300026: Line004
+    3300028: Line005
+    3300030: Line006
+    3300032: Line007
+    3300034: Line008
+    3300036: Line009
+    3300038: Line010
+    4300000: Box001
+    4300002: Line001
+    4300004: Line002
+    4300006: Ellipse001
+    4300008: Ellipse002
+    4300010: Ellipse003
+    4300012: Circle001
+    4300014: Line003
+    4300016: Line004
+    4300018: Line005
+    4300020: Line006
+    4300022: Line007
+    4300024: Line008
+    4300026: Line009
+    4300028: Line010
+    4300030: Cylinder001
+    4300032: Cylinder002
+    4300034: Cylinder003
+    4300036: Cylinder004
+    4300038: Cylinder005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 21eb620c9946a184dbaec7c17ae5a2b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 786b717d59086794cb447e07e60afdc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 37157b29ac531404ab0f669dbed99c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 144bad7b0fea78347a91f01474867f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 3a7cf144f14de3045b38496af5d46a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: f5db8ca7b451cb9488b7fa0b0c0e0117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 2e69290f3f575104bb8f1773c04b511c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: c301a6c47e93321459476bc980e036bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 83e11939ff8c39e4694353e61a63a587, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
